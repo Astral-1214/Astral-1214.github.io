@@ -111,21 +111,21 @@ avatar:
   effect: false # 頭像會一直轉圈
 
 # the banner image of index
-index_img: /img/P5Banner.png
+index_img: /img/index.jpg
 
 # if the banner of page not setting,it will show the top_img
-default_top_img: /img/P5Banner.png
+default_top_img: /img/index.jpg
 
 # the banner image of archive page
-archive_img: /img/P5Banner.png
+archive_img: /img/index.jpg
 
 # the banner image of tag page
 # tag page, look like https://xxxxxxxxx.com/tags/butterfly
-tag_img: /img/P5Banner.png
+tag_img: /img/index.jpg
 
 # the banner image of category page
 # category page, look like https://xxxxxxxxx.com/categories/butterfly
-category_img: /img/P5Banner.png
+category_img: /img/index.jpg
 
 # 如果你有使用hexo-douban，可配置這個
 # douban:
@@ -275,7 +275,7 @@ valine:
 # https://utteranc.es/
 utterances:
   enable: true
-  repo: Astral-1214/Astral-1214.github.io
+  repo: Astral-1214/utterances
   # 可選 pathname/url/title/og:title
   issue_term: pathname
   # 可選 github-light/github-dark/github-dark-orange/icy-dark/dark-blue/photon-dark
